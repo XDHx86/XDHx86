@@ -1,1 +1,1 @@
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=XDHx86&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues%2Cprs%2Crank%2Ccommits%2Cavatar">
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-xdhx86s-projects.vercel.app/api/github-stats?username=XDHx86&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF&hide=stars">

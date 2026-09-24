@@ -33,7 +33,7 @@
 
 <p><b>Fullstack Developer · AI Builder · AI Quality Assurance · DevOps</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-XDHx86-0d1117?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-XDHx86-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xdhx86.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-XDHx86-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-a-2483a743a/)
 
 <br>
